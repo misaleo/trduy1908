@@ -11,3 +11,8 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: misaleo/trduy1908@main
+        with:
+          CREDLY_USER: duy-nguyen-truong 
+          CREDLY_SORT: RECENT
+          BADGE_SIZE: 110x110 
+          NUMBER_LAST_BADGES: 20 
