@@ -1,3 +1,6 @@
+
+<!--START_SECTION:badges-->
+
 name: Update badges
 
 on:
@@ -16,3 +19,6 @@ jobs:
           CREDLY_USER: Nguyen-Truong-Duy
           CREDLY_SORT: RECENT
           BADGE_SIZE: 110
+
+
+<!--END_SECTION:badges-->
