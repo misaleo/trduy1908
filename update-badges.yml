@@ -12,6 +12,7 @@ jobs:
       - name: Badges - Readme
         uses: misaleo/trduy1908@main
         with:
+          COMMIT_MESSAGE: Credly
           CREDLY_USER: duy-nguyen-truong 
           CREDLY_SORT: RECENT
           BADGE_SIZE: 110x110 
