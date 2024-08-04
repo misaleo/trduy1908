@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: misaleo/badge-readme@main
+        uses: misaleo/trduy1908@main
